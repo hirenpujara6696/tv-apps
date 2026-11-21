@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TV Shield</string>
+    <string name="vpn_notification_channel_name">TV Shield Protection</string>
+    <string name="vpn_notification_channel_desc">Shows live status when DNS ad blocking is running on your TV.</string>
+    <string name="vpn_notification_title">TV Shield Active</string>
+    <string name="vpn_notification_text">Blocking TV ads &amp; trackers locally</string>
+    <string name="vpn_notification_action_stop">Pause Shield</string>
+</resources>

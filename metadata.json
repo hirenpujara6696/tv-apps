@@ -1,0 +1,6 @@
+{
+  "name": "TV Shield",
+  "description": "System-wide DNS ad blocker built for Android TV and Sansui Google TV with D-pad navigation, live domain blocking, and TV setup tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
